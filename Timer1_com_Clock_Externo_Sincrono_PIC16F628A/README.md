@@ -3,4 +3,4 @@ Setting  Timer 1 from `PIC16F628A` with synchronous external clock.
 
 Author: Lucas Gabriel <br/>
 Date: 07/09/2022 <br/>
-_"This project is based in **Curso de Microcontroladores PIC** from WRkits"_
+_"This project is based on **Curso de Microcontroladores PIC** from WRkits"_
